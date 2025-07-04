@@ -33,7 +33,7 @@ The project emphasizes modern data practices, including data wrangling, explorat
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 1. **Data Collection**  
    Gather data from Stack Overflow survey and job/training websites.
